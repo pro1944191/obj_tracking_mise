@@ -1,0 +1,5 @@
+torch 
+torchvision
+pillow
+omegaconf
+hydra-core

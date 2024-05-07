@@ -1,0 +1,4 @@
+train_dir: 'data/your_dataset/train'
+test_dir: 'data/your_dataset/test'
+video_dir: 'data/videos/'
+resize_size: 64

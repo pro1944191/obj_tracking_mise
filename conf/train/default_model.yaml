@@ -1,0 +1,10 @@
+model: 'Default Model'
+
+# 'model'.pth filename
+model_name: "your_progect_default_model.pth"
+
+# Training configs
+num_epochs: 10
+batch_size: 32
+hidden_hunits: 10
+learning_rate: 0.001

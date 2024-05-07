@@ -1,0 +1,10 @@
+# Folders
+experiments/
+models/
+
+# Other
+src/__pycache__/
+.devcontainer/
+.github/
+.DS_Store
+
